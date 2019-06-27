@@ -4,7 +4,7 @@ Observable Trends of Global Cities on 06/27/2019 ~1500 UTC.
 
 1. The City Latitude vs. Max Temperature plot map supports general notion temperatures increase closer to the equator and decrease farther from the equator. 
 
-!(starter_code\Output_Images\Lat_VS_MaxTemp.png)
+
 
 2. The City Latitude vs. Wind Speed plot map indicates the current wind speed for majority of global cities is low, between 5-10 mph.
 
